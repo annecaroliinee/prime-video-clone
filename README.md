@@ -4,9 +4,9 @@
 
 </h1>
 
-#  Proteto Clone Prime Vídeo | MENTORIA 🚀 
+#  Projeto Clone Prime Vídeo | MENTORIA - PROJETO 2 🚀 
  O objetivo do projeto foi treinar habilidades em HTML, CSS E JS. 
- Com consumo de API.
+ Com consumo de API. 
 
 
 
